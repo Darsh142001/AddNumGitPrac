@@ -1,0 +1,14 @@
+C:\Users\Darsh\Documents\3. 3rd Year BCAD\Semester 1\4. Programming 3A\GitPrac\2ndGitRepo\AddNumGitPrac\AddNumGitPrac\bin\Debug\netcoreapp3.1\AddNumGitPrac.exe
+C:\Users\Darsh\Documents\3. 3rd Year BCAD\Semester 1\4. Programming 3A\GitPrac\2ndGitRepo\AddNumGitPrac\AddNumGitPrac\bin\Debug\netcoreapp3.1\AddNumGitPrac.deps.json
+C:\Users\Darsh\Documents\3. 3rd Year BCAD\Semester 1\4. Programming 3A\GitPrac\2ndGitRepo\AddNumGitPrac\AddNumGitPrac\bin\Debug\netcoreapp3.1\AddNumGitPrac.runtimeconfig.json
+C:\Users\Darsh\Documents\3. 3rd Year BCAD\Semester 1\4. Programming 3A\GitPrac\2ndGitRepo\AddNumGitPrac\AddNumGitPrac\bin\Debug\netcoreapp3.1\AddNumGitPrac.runtimeconfig.dev.json
+C:\Users\Darsh\Documents\3. 3rd Year BCAD\Semester 1\4. Programming 3A\GitPrac\2ndGitRepo\AddNumGitPrac\AddNumGitPrac\bin\Debug\netcoreapp3.1\AddNumGitPrac.dll
+C:\Users\Darsh\Documents\3. 3rd Year BCAD\Semester 1\4. Programming 3A\GitPrac\2ndGitRepo\AddNumGitPrac\AddNumGitPrac\bin\Debug\netcoreapp3.1\AddNumGitPrac.pdb
+C:\Users\Darsh\Documents\3. 3rd Year BCAD\Semester 1\4. Programming 3A\GitPrac\2ndGitRepo\AddNumGitPrac\AddNumGitPrac\obj\Debug\netcoreapp3.1\AddNumGitPrac.csproj.AssemblyReference.cache
+C:\Users\Darsh\Documents\3. 3rd Year BCAD\Semester 1\4. Programming 3A\GitPrac\2ndGitRepo\AddNumGitPrac\AddNumGitPrac\obj\Debug\netcoreapp3.1\AddNumGitPrac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darsh\Documents\3. 3rd Year BCAD\Semester 1\4. Programming 3A\GitPrac\2ndGitRepo\AddNumGitPrac\AddNumGitPrac\obj\Debug\netcoreapp3.1\AddNumGitPrac.AssemblyInfoInputs.cache
+C:\Users\Darsh\Documents\3. 3rd Year BCAD\Semester 1\4. Programming 3A\GitPrac\2ndGitRepo\AddNumGitPrac\AddNumGitPrac\obj\Debug\netcoreapp3.1\AddNumGitPrac.AssemblyInfo.cs
+C:\Users\Darsh\Documents\3. 3rd Year BCAD\Semester 1\4. Programming 3A\GitPrac\2ndGitRepo\AddNumGitPrac\AddNumGitPrac\obj\Debug\netcoreapp3.1\AddNumGitPrac.csproj.CoreCompileInputs.cache
+C:\Users\Darsh\Documents\3. 3rd Year BCAD\Semester 1\4. Programming 3A\GitPrac\2ndGitRepo\AddNumGitPrac\AddNumGitPrac\obj\Debug\netcoreapp3.1\AddNumGitPrac.dll
+C:\Users\Darsh\Documents\3. 3rd Year BCAD\Semester 1\4. Programming 3A\GitPrac\2ndGitRepo\AddNumGitPrac\AddNumGitPrac\obj\Debug\netcoreapp3.1\AddNumGitPrac.pdb
+C:\Users\Darsh\Documents\3. 3rd Year BCAD\Semester 1\4. Programming 3A\GitPrac\2ndGitRepo\AddNumGitPrac\AddNumGitPrac\obj\Debug\netcoreapp3.1\AddNumGitPrac.genruntimeconfig.cache
